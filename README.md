@@ -21,21 +21,17 @@ All practice is in one file:
 - `robot_utils.py`: Helper functions like calculate_speed
 
 
- Week 3: Sensors & Control Basics
+ ## 📦 Week 3: Sensors & Control Basics
 This week I built:
+- `sensors.py`: classes for IR sensor, ultrasonic sensor, and camera sensor
+- `sensor_data.py`: simulated sensor readings collected in list & dictionary
+- `control_logic.py`: robot decides to stop, slow down, or move based on readings
+- `robot_simulation.py`: simulates multiple time steps with changing distance
+- `obstacle_avoidance.py`: mini project with random sensor data & robot reaction
 
-sensors.py: classes for IR sensor, ultrasonic sensor, and camera sensor
-
-sensor_data.py: simulated sensor readings collected in list & dictionary
-
-control_logic.py: robot decides to stop, slow down, or move based on readings
-
-robot_simulation.py: simulates multiple time steps with changing distance
-
-obstacle_avoidance.py: mini project with random sensor data & robot reaction
-
-🚀 Key skills learned:
-✅ Classes & objects for sensors
-✅ Using loops & conditions to control robot actions
-✅ Random data to simulate real-world conditions
+🚀 **Key skills learned:**
+✅ Classes & objects for sensors  
+✅ Using loops & conditions to control robot actions  
+✅ Random data to simulate real-world conditions  
 ✅ Step-by-step simulation over time
+

@@ -14,3 +14,8 @@ All practice is in one file:
 - Day 6: File Handling
 
 ✨ Learning step by step toward my goal to become a Robotics Engineer in 2026!
+
+
+## Week 2: OOP, Exceptions & Mini Project
+- `week2_mini_project.py`: Mini project — create motor, calculate speed, save to log
+- `robot_utils.py`: Helper functions like calculate_speed
